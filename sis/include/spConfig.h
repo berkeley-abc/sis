@@ -1,0 +1,1 @@
+../linsolv/spConfig.h
